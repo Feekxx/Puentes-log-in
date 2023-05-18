@@ -171,7 +171,7 @@ header a{
 	}
 
 }
-@media only screen and (min-width:760px) and (max-width:1180px){
+/*@media only screen and (min-width:760px) and (max-width:1180px){
 	form {
 		padding: 50px 20px;
 		background-color: #381b1ba6;
@@ -207,4 +207,4 @@ header a{
 		font-family: montez;
 		font-size: 80px;
 	}
-}
+}*/
